@@ -8,10 +8,10 @@ Xamarin.Forms reproduction sample showing RefreshControlColor bug on iOS
 3. Build/deploy PullToRefreshColorRepro.iOS to an iOS Device
     - I am using iPhone XR iOS 12.2 Simulator
 4. Wait for the app launch on the iOS device
-    - When the app launches, `ListView.BeginRefresh()` is automatically triggered in `ListViewPage.OnAppearing()`
-5. During the automatic pull-to-refresh, note that `RefreshControlColor` is the default Color, not the requested color
+    - When the app launches, `ListView.BeginRefresh()` is programmatically triggered in `ListViewPage.OnAppearing()`
+5. During the programmatic pull-to-refresh, note that `RefreshControlColor` is the default color, not the requested color
 6. Wait for the automatic pull-to-refresh to finish
-7. Manually trigger a pull-to-refresh by tap-and-draging the UI from top to bottom
+7. Manually trigger a pull-to-refresh by tap-and-dragging the UI from top to bottom
     - During the manual refresh, note that `RefreshControlColor` is the requested color, `Color.Cyan`
 
 ![Reproduction Video](https://user-images.githubusercontent.com/13558917/56069815-a12b4f80-5d39-11e9-94b5-8998bde4d78b.gif)
