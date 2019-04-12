@@ -1,0 +1,10 @@
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/obj/Debug/netstandard2.0/PullToRefreshColorRepro.csprojAssemblyReference.cache
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/obj/Debug/netstandard2.0/PullToRefreshColorRepro.csproj.CoreCompileInputs.cache
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/obj/Debug/netstandard2.0/PullToRefreshColorRepro.AssemblyInfoInputs.cache
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/obj/Debug/netstandard2.0/PullToRefreshColorRepro.AssemblyInfo.cs
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/bin/Debug/netstandard2.0/PullToRefreshColorRepro.deps.json
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/bin/Debug/netstandard2.0/PullToRefreshColorRepro.dll
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/bin/Debug/netstandard2.0/PullToRefreshColorRepro.pdb
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/obj/Debug/netstandard2.0/PullToRefreshColorRepro.dll
+/Users/bramin/Projects/PullToRefreshColorRepro/PullToRefreshColorRepro/obj/Debug/netstandard2.0/PullToRefreshColorRepro.pdb
